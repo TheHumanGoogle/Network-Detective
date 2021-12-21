@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-#Copyright: Shyam Karthick 
+"""Developed by Shyam Karthick(@TheHumanGoogle).
+   Under the repo- Network-Detective in github.
+   For suggestions/bug fixes,contact: lopinghealer@gmail.com"""
 	
 from socket import *
 import optparse
